@@ -1,0 +1,15 @@
+{
+  "name": "fhir-jwks-server",
+  "version": "1.0.0",
+  "description": "FHIR testing server hosting a JWK Set URL with RSA public key",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate-keys": "node generate-keys.js",
+    "test": "node --test tests/jwks.test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
