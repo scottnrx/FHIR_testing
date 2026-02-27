@@ -7,6 +7,14 @@
       "alg": "RS256",
       "n": "ttzetDGaAIiqRNZfzTMmI3CBWk5khzb2KEI03HjSit5x0uMgRtXfCOLNopfiWSM0ynsdmBg57O25lojepKePIxcF9WRNr-nQZu5my8XVcwM3aBp-kApDnGIf3GkB1APW4HqOO0WXIuZHeiq4J2DrLSUcYwPJcJQJ_d7W0V0tqmKXFGA5KMB3JrTj2mPXokBcfu8ra26CEulMih11-ACtgIXGWvsrVB4KwBosbCwTSNHxuwKXAh0WaWynmGRvaevqd764le0vXZetyPrbWsIfj_I-Wm2IRHFb4wUdF9S5PVs1S4pzjdlboxWtw1nn9zPQjGDLsSEL59JnqqGgyHZZsQ",
       "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
+      "kid": "epic_sandbox_20260227",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "9thpcvKW1TwCXyT9TvFdV2Xqahdm_DRcxOv0PAmL-FUYngZbSyki_cfLyx-HUETyDEt2O4OXJFTtXRgJf1veI9rP-IGYLAXPA0a05OzrYlpsFUKrwHxkoxTaGoeWzNmcHjjVmxfrURae6dSGpRmDx9vpErq_HkcINc7rMUUFdNKFQZ6myy3Yl89HX7wWgJU-ohmtFs8_gzJBHhXJgTykTyRfwZnp0Nmut8uvKF2mr2IdsR6NRVDPq3VehBdzSKitVUtt6OJznzj2AYcBwt8Dl6l3Vj7_BalbWsSF5cHX1FJUF_KRTKEuhookLTigV3GniXKzjQ18knMHkzr2f9v9KQ",
+      "e": "AQAB"
     }
   ]
 }
